@@ -1,6 +1,8 @@
 # resume
 My resumé - Powered by LaTeX
 
+This repository contains a project to build my resumé. It uses the https://github.com/posquit0/Awesome-CV template by [posquit0](https://github.com/posquit0).
+
 Steps to build the Resume.
 
 1 - Install LaTeX. https://tug.org/mactex/
