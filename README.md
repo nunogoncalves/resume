@@ -14,3 +14,9 @@ Steps to build the Resume.
 
 Tips:
 If you need to add specific icons, check this: http://fontawesome.io/cheatsheet/ and change fontawesome.sty file accordingly.
+
+<object data="https://github.com/nunogoncalves/resume/blob/master/Resume/Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/nunogoncalves/resume/blob/master/Resume/Resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/nunogoncalves/resume/blob/master/Resume/Resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
